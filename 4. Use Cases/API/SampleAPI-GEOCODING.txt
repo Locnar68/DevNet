@@ -1,0 +1,1 @@
+http://a32.me/2011/12/find-the-latitude-and-longitude-of-address-using-geocoding-api/
